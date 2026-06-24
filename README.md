@@ -1,0 +1,1 @@
+Production-grade RAG system with TF-IDF + BM25 + dense retrieval, IVF vector store, RRF hybrid search, cross-encoder reranker, and Groq-powered generation. 6-file architecture with evaluation metrics (MRR, NDCG, hit rate). Deployed on AWS EC2/Lambda.
